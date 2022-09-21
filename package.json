@@ -27,5 +27,8 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "react-router-dom": "^6.4.0"
+  }
 }
